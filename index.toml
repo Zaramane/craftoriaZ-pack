@@ -20716,7 +20716,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
+hash = "6c80526c747de9b93613dd4633444c52c6f33af8353c04e78bbf8616917459d6"
 metafile = true
 
 [[files]]
@@ -21316,7 +21316,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
-hash = "1b623bb4261ecb6778b8adbc5b343802c15229dd08e44dfa0087f95d06f869eb"
+hash = "e4a6fab8fdf43d56f0256753e7e59946f9f0729b4f65ce65e007b89995f81ebd"
 metafile = true
 
 [[files]]
@@ -21400,8 +21400,8 @@ hash = "b71a5d35f1fc79a1908ccbf482a0507b3dd049a1a0c05d99a3be0d7369d6e112"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+file = "mods/irisshaders.pw.toml"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
 
 [[files]]
@@ -22326,7 +22326,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
 metafile = true
 
 [[files]]
@@ -22421,7 +22421,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2101b996c9699dee405281a69446430dca8e18952335cc89044825610e60cf4a"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
