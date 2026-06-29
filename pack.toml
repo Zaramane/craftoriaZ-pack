@@ -1,0 +1,13 @@
+name = "CraftoriaZ"
+author = "_Zaraman3_"
+version = "2.5.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "aa5286f463178e68105b08496d111b82221a49f1ebffd4c0d43c970897997f9c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

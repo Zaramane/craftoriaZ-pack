@@ -1,0 +1,18 @@
+# архивы-источники
+*.mrpack
+*.zip
+# кэши и рантайм
+showdown/
+local/
+dynamic-resource-pack-cache/
+dynamic-data-pack-cache/
+.mixin.out/
+# бэкапы
+*.bak
+*.backup*
+# редактор/система
+.vscode/
+.DS_Store
+Thumbs.db
+# осевшие jar (после mr install не нужны)
+mods/*.jar

@@ -1,0 +1,50 @@
+/flywheel backend flywheel:off
+/tp _Zaraman3_ Ronme
+/tp _Zaraman3_ qqKdv
+/locate structure cataclysm:desert_temple
+/tp _Zaraman3_ qqKdv
+/flywheel backend flywheel:off
+/tp _Zaraman3_ Ronme
+/tp _Zaraman3_ qqKdv
+/tp _Zaraman3_ Ronme
+/tp _Zaraman3_ qqKdv
+/tp _Zaraman3_ Ronme
+/tp _Zaraman3_ qqKdv
+/flywheel backend flywheel:off
+/tp _Zaraman3_ Ronme
+/tp _Zaraman3_ qqKdv
+/experience add 100000
+/experience add _Zaraman3_ 100000
+/give _Zaraman3_ relics:relic_experience_bottle 64
+/experience add _Zaraman3_ 100000
+/give _Zaraman3_ relics:relic_experience_bottle 64
+/experience add _Zaraman3_ 100000
+/give _Zaraman3_ relics:relic_experience_bottle 1000
+/experience add _Zaraman3_ 10000
+/flywheel backend flywheel:off
+/tpa cookry
+/tp cookry _Zaraman3_
+/flywheel backend flywheel:off
+/locate biome minecraft:jungle
+/flywheel backend flywheel:off
+/time set day
+/time set noon
+/time set day
+/time set noon
+/flywheel backend flywheel:off
+/locate biome minecraft:swamp
+/flywheel backend flywheel:off
+/experience add _Zaraman3_ 100000
+/flywheel backend flywheel:off
+/data merge entity @e[type=cobblemon:pokemon,limit=1,sort=nearest] {CustomName:'{"text":"Михалыч"}'}
+/cobblemon spawn miltank ~ ~ ~
+/spawnpokemon miltank
+/spawnpokemon miltank lvl 27
+/spawnpokemon miltank lvl= 27
+/spawnpokemon miltank lvl=27
+/data merge entity @e[type=cobblemon:pokemon,limit=1,sort=nearest] {PersistenceRequired:1b}
+/flywheel backend flywheel:off
+/spawnpokemon miltank lvl=27
+/spawnpokemon miltank lvl=1
+/time set midnight
+/flywheel backend flywheel:off

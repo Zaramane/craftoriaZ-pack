@@ -1,0 +1,13 @@
+name = "Create Stuff 'N Additions x Sable & Aeronautics Compat"
+filename = "SableStuffAdditionsCompat v1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26cbedb946ee5da07960df44227f2cea7d43f73b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8081980
+project-id = 1541139

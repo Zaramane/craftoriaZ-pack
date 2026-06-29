@@ -1,0 +1,13 @@
+name = "Create: Automotives"
+filename = "create-automotives-1.21.1-V2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1d42205b3411493620b0335e3af01254b599e08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7985010
+project-id = 1439308

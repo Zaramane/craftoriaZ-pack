@@ -1,0 +1,16 @@
+.git/**
+.gitattributes
+.gitignore
+*.mrpack
+*.zip
+*.bat
+*.sh
+# кэши и рантайм-данные — не часть сборки
+showdown/**
+local/**
+dynamic-resource-pack-cache/**
+dynamic-data-pack-cache/**
+.mixin.out/**
+# бэкапы
+**/*.bak
+**/*.backup*

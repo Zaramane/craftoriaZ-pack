@@ -1,0 +1,8 @@
+{
+  "perspectives": {
+    "cobblemon:land/horse": "FIRST_PERSON",
+    "cobblemon:air/bird": "FIRST_PERSON",
+    "cobblemon:air/jet": "FIRST_PERSON",
+    "cobblemon:liquid/dolphin": "FIRST_PERSON"
+  }
+}

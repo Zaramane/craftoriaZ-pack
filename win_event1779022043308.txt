@@ -1,0 +1,46 @@
+Detected that Windows reported recent critical or error events in the Application log,
+which can indicate that a process (including the Minecraft JVM) terminated unexpectedly.
+Scope: Application log; Levels: Error & Critical; Window: last ~15 seconds.
+
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To inspect these events manually:
+  1) Press Win+R, type "eventvwr.msc", press Enter.
+  2) Open "Windows Logs" → "Application".
+  3) Sort by Date and look for entries with Level = Error or Critical near the crash time.
+
+-----------------------
+Time: 2026-05-17 17:47:22.243 YEKT
+Source: Application Error
+Event ID: 1000
+Level: Error
+
+Message:
+  Имя сбойного приложения: javaw.exe, версия: 21.0.7.0, метка времени: 0x1bc97390
+  Имя сбойного модуля: OpenAL.dll, версия: 1.23.1.0, метка времени: 0x647635a1
+  Код исключения: 0xc0000409
+  Смещение ошибки: 0x00000000000a2b05
+  Идентификатор сбойного процесса: 0xDBC
+  Время запуска сбойного приложения: 0x1DCE5C052503C87
+  Путь сбойного приложения: C:\Users\Николай\AppData\Roaming\FreesmLauncher\java\java-runtime-delta\bin\javaw.exe
+  Путь сбойного модуля: C:\Users\D683~1\AppData\Local\Temp\lwjgl_Николай\3.3.3+5\x64\OpenAL.dll
+  Идентификатор отчета: 5e76f8af-911c-4cac-a17c-de57e7f605e3
+  Полное имя сбойного пакета: 
+  Код приложения, связанного со сбойным пакетом:
+
+
+Details:
+  - AppName: javaw.exe
+  - AppVersion: 21.0.7.0
+  - AppTimeStamp: 1bc97390
+  - ModuleName: OpenAL.dll
+  - ModuleVersion: 1.23.1.0
+  - ModuleTimeStamp: 647635a1
+  - ExceptionCode: c0000409
+  - FaultingOffset: 00000000000a2b05
+  - Process ID: 3516 [0xdbc]
+  - ProcessCreationTime: 0x1dce5c052503c87
+  - AppPath: C:\Users\Николай\AppData\Roaming\FreesmLauncher\java\java-runtime-delta\bin\javaw.exe
+  - ModulePath: C:\Users\D683~1\AppData\Local\Temp\lwjgl_Николай\3.3.3+5\x64\OpenAL.dll
+  - IntegratorReportId: 5e76f8af-911c-4cac-a17c-de57e7f605e3
+-----------------------
+
