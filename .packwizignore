@@ -10,6 +10,7 @@ showdown/**
 local/**
 dynamic-resource-pack-cache/**
 dynamic-data-pack-cache/**
+blueprints/**
 .mixin.out/**
 # бэкапы
 **/*.bak

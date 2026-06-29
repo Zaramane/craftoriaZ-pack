@@ -49,20 +49,12 @@ file = "TrashSlotSaveState.json"
 hash = "501637f628a932550da9b6ebf8939332482439cff77e8214ce4731a32f1d1ead"
 
 [[files]]
-file = "blueprints/_zaraman3_/pack.json"
-hash = "2e997a4c5bf16365eac899c84bce27b8e46580bbea1cfedff1f2838f18298f2c"
-
-[[files]]
 file = "cherishedworlds-favorites.dat"
 hash = "86c32fbcb1d4e1b91c4adb0ef28b8d44f58ef91c6416778b4b2a324ae4f81edb"
 
 [[files]]
 file = "cobblemon/riding_perspectives.json"
 hash = "cd6c5470d3bb2f892d31c950fbbd99174c572593ce15d2895723cd42e74cb013"
-
-[[files]]
-file = "command_history.txt"
-hash = "43418801c12e60606b4b7556962f35d4c46d454f9221257da0ad25d673e45ebf"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
@@ -23058,11 +23050,6 @@ hash = "8fa19430ce433fe18eadd70d1a9b7b3b9441965bd7c0905978841fb180799420"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
-hash = "386d9a3e8bd5e258ae02d9b5aec3263a40fca417601d10a88387977e64635fde"
-metafile = true
-
-[[files]]
 file = "schematics/better_lookin_train_hell_yeah.nbt"
 hash = "fd0ca45ba0ba070d8dbf5e3cd5cbd4119389f420a9102f4f8d89ff05adfb09ac"
 
@@ -25581,23 +25568,3 @@ hash = "aa106944b89ecde798a6cb55bcc1c878859a85d46a9b00ed124e153b06991f6a"
 [[files]]
 file = "whitelist.json"
 hash = "4e65b36ee86a7028eb8d1a784faf6cb3174643761a5fda5209a13ac8857f7aeb"
-
-[[files]]
-file = "win_event1779022043308.txt"
-hash = "520e6175f722693a3b55abdc93868af09a63a11fb0c848c1a935b196525c6caa"
-
-[[files]]
-file = "win_event1779035596237.txt"
-hash = "7d60819d005625908799c16fe6671bad5041b682636e6a27b5f7bb4a0542a278"
-
-[[files]]
-file = "win_event1780058724812.txt"
-hash = "ad4b2915d3b289d6466b51f297c68e8329ee7fa6dc6da31a993f74de91e25a0e"
-
-[[files]]
-file = "win_event1780218492195.txt"
-hash = "e8b882c3994d38ddc4afadd68dc368340e5019b21dbea4390a633f9df6829e9e"
-
-[[files]]
-file = "win_event1780318587835.txt"
-hash = "9eec5573e16c7ee26e0ae5bb391ee6d5a4efe600d7c0c903e63e88f0f08b993e"
