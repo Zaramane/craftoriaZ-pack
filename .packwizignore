@@ -16,3 +16,4 @@ blueprints/**
 **/*.bak
 **/*.backup*
 whitelist.json
+resourcepacks/**
