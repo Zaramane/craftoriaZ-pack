@@ -5,6 +5,7 @@
 *.zip
 *.bat
 *.sh
+*.vscode
 # кэши и рантайм-данные — не часть сборки
 showdown/**
 local/**
@@ -17,3 +18,6 @@ blueprints/**
 **/*.backup*
 whitelist.json
 resourcepacks/**
+server.dat
+server.dat_old
+*debug.json

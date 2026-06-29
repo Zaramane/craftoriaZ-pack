@@ -9,10 +9,6 @@ file = ".sable/natives/sable_rapier_x86_64_windows.dll"
 hash = "52ba0aade660a2cb7ae89794fc8366a5eed7ab9d42b72cc584213cbf0c681c86"
 
 [[files]]
-file = ".vscode/key.code-snippets"
-hash = "fb1084bbaee45d3cc401556565dc03b2413f6487c34f7459b8df18d341dba7e1"
-
-[[files]]
 file = "ESM/FullFlat/anchors.dat"
 hash = "c5a6a80b1164d98970126276e0847a9a4100081eed7f99b3775c4c3163f9b459"
 
@@ -291,10 +287,6 @@ hash = "ba0203c73f3d1506c48587b3f7caf578c927390c2cf0128b582d6f77f4e3977a"
 [[files]]
 file = "config/alltheleaks.json"
 hash = "41408fd60e4700ce5c349497b238ee81eb435e722004d4559be053be80ebd549"
-
-[[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
 
 [[files]]
 file = "config/almostunified/duplicates.json"
