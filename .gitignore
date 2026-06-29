@@ -17,3 +17,4 @@ blueprints/
 Thumbs.db
 # осевшие jar (после mr install не нужны)
 mods/*.jar
+whitelist.json

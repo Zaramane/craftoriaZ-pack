@@ -25564,7 +25564,3 @@ hash = "d098838b51d9af1a39ccc1e2736f56de64b9bd406fd551e0cd4734ae2b2e1edd"
 [[files]]
 file = "version_info.json"
 hash = "aa106944b89ecde798a6cb55bcc1c878859a85d46a9b00ed124e153b06991f6a"
-
-[[files]]
-file = "whitelist.json"
-hash = "4e65b36ee86a7028eb8d1a784faf6cb3174643761a5fda5209a13ac8857f7aeb"
