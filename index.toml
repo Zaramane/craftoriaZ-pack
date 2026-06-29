@@ -21423,6 +21423,11 @@ hash = "b7933bb3d7f4c2d874ffb62c4561f81144c5bc5690698defb868b80761efdc4b"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "eb9dd11b787766f0cf68fc83cc1ae97e7bf52be41d3f29ba77062944f774865f"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks-aeronautics.pw.toml"
 hash = "b5232be9ca8908c900eab46c14c8789a4a902b77b9d215062beba7f680a01533"
 metafile = true
@@ -22424,7 +22429,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "2101b996c9699dee405281a69446430dca8e18952335cc89044825610e60cf4a"
 metafile = true
 
 [[files]]
@@ -22910,14 +22915,6 @@ hash = "b17e2e9a1152dc1cfbe9af7bb7c5d91ab50f013e8161fe15f06cb5f1207f842a"
 [[files]]
 file = "schematics/steam_r13_1ta4o4adqu.nbt"
 hash = "de278df1aaf8f300b3b6f7b275182678d352c17bfc169d3d3e5605245e030c81"
-
-[[files]]
-file = "servers.dat"
-hash = "57b8f2b8e2a1f142bc86fc0201889147d6e45472f04914beadbd433faabeabe0"
-
-[[files]]
-file = "servers.dat_old"
-hash = "57b8f2b8e2a1f142bc86fc0201889147d6e45472f04914beadbd433faabeabe0"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.2.txt"
