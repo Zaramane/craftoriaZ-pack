@@ -21040,6 +21040,11 @@ hash = "b4b3524587c3116d0a1ec0200c476831b41b8096d20d68a3d95455bb6b194e03"
 metafile = true
 
 [[files]]
+file = "mods/extra-hostile-neural-networks.pw.toml"
+hash = "8e3a431769dd04c5c3e1c79c52ccd3e9526d1afad81f83df9b85aeb18eb0324b"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
 metafile = true
