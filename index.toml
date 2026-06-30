@@ -20005,6 +20005,10 @@ file = "list.txt"
 hash = "828eb0dc69b3c29ed46bcdbd458c71ad7e9aba46f655f9dbfb37ce014ded3edf"
 
 [[files]]
+file = "manual-mods/extrahnn-1.21.1-2.1.1.jar"
+hash = "5edc543e3cd52dbcb596119de8213e5f177f63998ccffa03e8ea79faf52bd5fe"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -21040,11 +21044,6 @@ hash = "b4b3524587c3116d0a1ec0200c476831b41b8096d20d68a3d95455bb6b194e03"
 metafile = true
 
 [[files]]
-file = "mods/extra-hostile-neural-networks.pw.toml"
-hash = "bc9f1269fea1c4635c86e4cb3ed7eb1950429d78171769c2c94fa5cdbc9d1e50"
-metafile = true
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
 metafile = true
@@ -21052,6 +21051,11 @@ metafile = true
 [[files]]
 file = "mods/extra-sponges.pw.toml"
 hash = "fd949d8049e235d9111f7ff8d466407b87622cabb5bf1dbc25223850d1ecbb71"
+metafile = true
+
+[[files]]
+file = "mods/extrahnn.pw.toml"
+hash = "67133a4958b1af7530a4f19463439b9f6ceabb15fd6c1e0fdf4f6f9f9de05800"
 metafile = true
 
 [[files]]
@@ -22872,10 +22876,6 @@ metafile = true
 [[files]]
 file = "observable_announce"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "ops.json"
-hash = "faff927c5752ba8113086f0739a223fac25cc717b8882ef5e326ef24c23b2d62"
 
 [[files]]
 file = "patchouli_data.json"
@@ -25380,14 +25380,6 @@ hash = "873732bf4872d105393846f41f40cc6c39881b422a35a507ec12580083e57a65"
 [[files]]
 file = "shaderpacks/Solas Shader V3.4.zip.txt"
 hash = "c14e1b9fb068731e23b5b3cd92d69ec74976def262ede0f66a8483b054b3d556"
-
-[[files]]
-file = "usercache.json"
-hash = "2ceeb993ce4101a5ca462750aef960dee4d2e7e675a4cd18ec8b93634999f982"
-
-[[files]]
-file = "usernamecache.json"
-hash = "d098838b51d9af1a39ccc1e2736f56de64b9bd406fd551e0cd4734ae2b2e1edd"
 
 [[files]]
 file = "version_info.json"

@@ -1,0 +1,9 @@
+name = "extrahnn"
+filename = "extrahnn-1.21.1-2.1.1.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://raw.githubusercontent.com/Zaramane/craftoriaZ-pack/main/manual-mods/extrahnn-1.21.1-2.1.1.jar"
+hash-format = "sha256"
+hash = "5edc543e3cd52dbcb596119de8213e5f177f63998ccffa03e8ea79faf52bd5fe"
