@@ -1,7 +1,0 @@
-#Sat Jun 27 16:38:36 YEKT 2026
-LPV_CLOUDY_FOG=true
-SHADOW_ENTITIES=true
-VL_SAMPLES=12
-VOXEL_VOLUME_SIZE=256
-shadowDistance=512.0
-shadowMapResolution=4096
